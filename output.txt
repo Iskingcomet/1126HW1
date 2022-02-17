@@ -1,0 +1,31 @@
+This is Print Head Array List:
+1459 (Pos): @Blackberry & @Facebook U R really about to make me throw this @Blackberry in the trash an get an @Apple iPhone! @Facebook upload issues!
+2228 (Neg): Pissed with whoever designs keyboards with @apple for not having a home and end key.  working on the CLI i use those keys often
+1400 (Pos): My iPhone 4S battery lasted longer than a day. That hasn't happened since my edge iPhone. Nice job @apple.
+1818 (Neg): 9% now on my second full charge of the day. Pissed @Apple
+1652 (Neg): Correction: @ Best Buy kudos to Chris @ Alamo Ranch S.A. TX-fixed issues couldn't resolve after 1/2 day w/ @ATT & @Apple. Hero of my day!
+
+
+This is Print Tail Array List:
+1609 (Neg): You know @apple It's been almost a week since I paid for iTunes Match I would really like to use it. Any ETA on a fix?
+1331 (Pos): @apple Cards app notifies me the card I sent has arrived at local post office and should be delivered today... Sunday. Truly is #magic.
+2234 (Neg): Siri is having a hard time remembering who my sister is. contact card needs space for family info. #iPhone4S @apple
+1005 (Pos): @Apple will be adding more carrier support to the iPhone 4S (just announced)
+1319 (Pos): Thx @instagram Thx @apple #hypo #D-76 #tri-x http://t.co/D7EeJHBT
+2187 (Neg): Iphone 4s siri doesn't work for shit @apple
+2029 (Neg): @apple PLEASE FIX #Siri!!!! She can't connect to your network!!!!!!!
+1836 (Neg): Suddenly lost all address book on @3GS iPhone. And someone was using my @Apple ID. It all fucked up.
+2333 (Neg): @Blackberry does take better quality photos than @Apple iPhone though. I give them that! #photograhersEye
+
+
+This is Print Head Array:
+1459 (Pos): @Blackberry & @Facebook U R really about to make me throw this @Blackberry in the trash an get an @Apple iPhone! @Facebook upload issues!
+2228 (Neg): Pissed with whoever designs keyboards with @apple for not having a home and end key.  working on the CLI i use those keys often
+1400 (Pos): My iPhone 4S battery lasted longer than a day. That hasn't happened since my edge iPhone. Nice job @apple.
+1818 (Neg): 9% now on my second full charge of the day. Pissed @Apple
+
+
+This is Print Tail Array:
+2029 (Neg): @apple PLEASE FIX #Siri!!!! She can't connect to your network!!!!!!!
+1836 (Neg): Suddenly lost all address book on @3GS iPhone. And someone was using my @Apple ID. It all fucked up.
+2333 (Neg): @Blackberry does take better quality photos than @Apple iPhone though. I give them that! #photograhersEye
